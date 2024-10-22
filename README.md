@@ -6,4 +6,4 @@ Atividades desenvolvidas para a competência **Aplicar Algoritmos de Apoio à Pe
 
 As atividades foram desenvolvidas utilizando as seguintes tecnologias:
 
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
